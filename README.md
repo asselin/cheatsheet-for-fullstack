@@ -12,7 +12,11 @@
 `var obj = {};`
 
 ### for loop
-`for (var i=0, i < array.length, i++)`
+```
+for (var i=0; i < array.length; i++) {
+   block of code to be executed repeatedly
+}
+```
 
 ### if statement
 ```
